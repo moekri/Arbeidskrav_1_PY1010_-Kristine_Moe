@@ -1,6 +1,6 @@
 <h3>Arbeidskrav 1 PY1010</h3>
 
-Dette programmet beregner årlige totalkostnader for elbil og bensinbil samt årlig kostnadsdifferanse. 
+Dette programmet beregner årlige totalkostnader for elbil og bensinbil samt årlig kostnadsdifferanse. Programmet er laget i Jypyter Notebook.
 
 <li>Antall kjørte km/år: 16000</li>
 <li>Forsikring: Elbil: 5000 kr/år. Bensinbil: 7500 kr/år.</li>
